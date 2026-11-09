@@ -1,0 +1,10 @@
+{
+  "name": "foerderradar",
+  "version": "0.1.0",
+  "description": "Fördermittel für Vereine finden und Anträge vorbereiten: Organisation analysieren, Förderprogramme mit kommender Frist finden, Förderfähigkeit an der Richtlinie prüfen, Unterlagen sammeln und Lückenanalyse erstellen.",
+  "author": { "name": "KI Klub Werder e.V.", "url": "https://github.com/KI-Klub-Werder-e-V" },
+  "homepage": "https://ki-klub-werder.de/foerderradar",
+  "repository": "https://github.com/KI-Klub-Werder-e-V/foerderradar",
+  "license": "Apache-2.0",
+  "keywords": ["foerdermittel", "foerderung", "verein", "gemeinnuetzig", "stiftung", "foerderantrag", "grants", "nonprofit"]
+}

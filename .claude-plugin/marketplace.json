@@ -1,0 +1,12 @@
+{
+  "name": "foerderradar",
+  "description": "Förderradar vom KI Klub Werder e.V.: Fördermittel für gemeinnützige Organisationen finden und Anträge vorbereiten.",
+  "owner": { "name": "KI Klub Werder e.V." },
+  "plugins": [
+    {
+      "name": "foerderradar",
+      "source": "./",
+      "description": "Vom Vereinsprofil über passende Förderprogramme bis zur Lückenanalyse der Antragsunterlagen."
+    }
+  ]
+}

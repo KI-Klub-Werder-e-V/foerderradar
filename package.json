@@ -1,0 +1,12 @@
+{
+  "name": "foerderradar",
+  "version": "0.1.0",
+  "description": "Fördermittel für gemeinnützige Organisationen finden: geprüfter Datensatz deutscher Förderprogramme und Vorfilter nach Region und Frist.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "auswahl.mjs",
+  "files": ["auswahl.mjs", "data/programme.json"],
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test" },
+  "repository": "github:KI-Klub-Werder-e-V/foerderradar"
+}

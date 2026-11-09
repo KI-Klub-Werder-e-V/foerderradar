@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Förderradar: Fördermittel für Vereine finden und Anträge vorbereiten"
+message: "Wenn ihr Förderradar oder den Datensatz nutzt, nennt bitte den KI Klub Werder e.V."
+type: software
+authors:
+  - name: "KI Klub Werder e.V."
+repository-code: "https://github.com/KI-Klub-Werder-e-V/foerderradar"
+url: "https://ki-klub-werder.de/foerderradar"
+license: Apache-2.0
+version: 0.1.0
+date-released: 2026-11-09
+keywords:
+  - Fördermittel
+  - Förderprogramme
+  - Verein
+  - Gemeinnützigkeit
+  - Förderantrag
+  - Claude plugin
